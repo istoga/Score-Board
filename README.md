@@ -1,5 +1,5 @@
 # coa2a48ab9fcd98890eb26198
-
+Focus on functionality not design
 Quick start:
 
 ```
